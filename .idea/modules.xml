@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArraySchlange/task1/ArraySchlange-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/ArraySchlange/task1/ArraySchlange-task1.iml" group="Schlangen_und_Listen/ArraySchlange-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArraySchlange/task1/ArraySchlange-task1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ArraySchlange/task1/ArraySchlange-task1_main.iml" group="Schlangen_und_Listen/ArraySchlange-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArraySchlange/task1/ArraySchlange-task1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ArraySchlange/task1/ArraySchlange-task1_test.iml" group="Schlangen_und_Listen/ArraySchlange-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Schlangen_und_Listen.iml" filepath="$PROJECT_DIR$/.idea/modules/Schlangen_und_Listen.iml" group="Schlangen_und_Listen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Schlangen_und_Listen/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Schlangen_und_Listen/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Schlangen_und_Listen/util" />
+    </modules>
+  </component>
+</project>

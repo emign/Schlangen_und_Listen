@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+- name: test/Tests.kt
+  visible: false
+- name: src/Person.kt
+  visible: true
+- name: src/ArraySchlange.kt
+  visible: true
